@@ -71,8 +71,3 @@ A Sprint Geral resume todas as entregas e valida que:
 - Os testes automatizados foram realizados com sucesso
 - A documentação técnica está completa
 
----
-
-## 👤 Desenvolvimento Individual
-
-Este projeto foi desenvolvido de forma **individual**, sendo responsabilidade única do autor todo o processo de modelagem, codificação, teste, documentação e apresentação do sistema. A experiência proporcionou um aprendizado significativo em organização de backlog, escrita de testes automatizados, uso de arquivos `.txt` como persistência e documentação em Markdown.
